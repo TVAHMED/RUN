@@ -26,8 +26,8 @@ def logo():
     os.system("clear")
     print(f"""{white}
 
-      .▀█ █░█ █▀▄▀█ █▀▀ █▀▄
- █▀█ █▀█ █░▀░█ ██▄ █▄▀
+  █▀ █ █▀▀ █▀▄▀█ ▄▀█
+ ▄█ █ █▄█ █░▀░█ █▀█
       YP  YP  YP YP   YP 88   YD Y888888P    {green}(AHMED){white}  """)                                                                                  
     print(50*'-')
     print(f" {white}{green}[~]{white} Owner     : AHMED SHAR (ðŸ˜Ž")
@@ -59,10 +59,9 @@ for i in range(2000):
 #______[MAIN MENU]__________>>
 def infinty():
     logo()
-    os.system('xdg-open :/https://youtube.com/@missdesinar?si=NrDR73_ssNHoBxUm/')
+    os.system('xdg-open :/https://youtube.https://youtube.com/@missdesinar?si=NrDR73_ssNHoBxUm/')
     print(f'{rad}SUBSCRIBE kr liya kry 😕{white} ')
-    print(50*'-')
-    print(f'{white}{green} [1]{white} Random Crack')
+    print(50*  print(f'{white}{green} [1]{white} Random Crack')
     print(f'{white}{green} [2]{white} File Clone')
     print(f'{white}{green} [0]{white} Close Project')
     print(50*"-")
