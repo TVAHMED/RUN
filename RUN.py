@@ -26,24 +26,18 @@ def logo():
     os.system("clear")
     print(f"""{white}
 
-      .$$$$$$\  $$\   $$\ $$\      $$\ $$$$$$$$\ $$$$$$$\  
-$$  __$$\ $$ |  $$ |$$$\    $$$ |$$  _____|$$  __$$\ 
-$$ /  $$ |$$ |  $$ |$$$$\  $$$$ |$$ |      $$ |  $$ |
-$$$$$$$$ |$$$$$$$$ |$$\$$\$$ $$ |$$$$$\    $$ |  $$ |
-$$  __$$ |$$  __$$ |$$ \$$$  $$ |$$  __|   $$ |  $$ |
-$$ |  $$ |$$ |  $$ |$$ |\$  /$$ |$$ |      $$ |  $$ |
-$$ |  $$ |$$ |  $$ |$$ | \_/ $$ |$$$$$$$$\ $$$$$$$  |
-\__|  \__|\__|  \__|\__|     \__|\________|\_______/ 
+      .▀█ █░█ █▀▄▀█ █▀▀ █▀▄
+ █▀█ █▀█ █░▀░█ ██▄ █▄▀
       YP  YP  YP YP   YP 88   YD Y888888P    {green}(AHMED){white}  """)                                                                                  
     print(50*'-')
     print(f" {white}{green}[~]{white} Owner     : AHMED SHAR (ðŸ˜Ž")
     print(f" {white}{green}[~]{white} Facebook  : prince king hu yawr")
-    print(f" {white}{green}[~]{white} YouTube  : AHMED SHAR VLOGS")
+    print(f" {white}{green}[~]{white} YouTube.  : https://youtube.com/@missdesinar?si=NrDR73_ssNHoBxUm
     print(f" {white}{green}[~]{white} Tool      : FILE + RANDOM CLONE")
     print(f" {white}{green}[~]{white} Github    : https://github.com/TVAHMED")
     print(f" {white}{green}[~]{white} Whatsapp  : 03277025198 ONLY for help ")
     print(f" {white}{green}[~]{white} Status    : {green}Free ")
-    print(f" {white}{green}[~]{white} Version   : 1.2 ")
+    print(f" {white}{green}[~]{white} Version   : 1.5 ")
     print(50*'-')
 #_________[ USER-AGENT LIST GENERATER ]______>>>
 for i in range(2000):
@@ -66,7 +60,7 @@ for i in range(2000):
 def infinty():
     logo()
     os.system('xdg-open :/https://youtube.com/@missdesinar?si=NrDR73_ssNHoBxUm/')
-    print(f'{rad}UBSCRIBE kr liya kry 😕{white} ')
+    print(f'{rad}SUBSCRIBE kr liya kry 😕{white} ')
     print(50*'-')
     print(f'{white}{green} [1]{white} Random Crack')
     print(f'{white}{green} [2]{white} File Clone')
