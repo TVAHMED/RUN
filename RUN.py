@@ -65,8 +65,8 @@ for i in range(2000):
 #______[MAIN MENU]__________>>
 def infinty():
     logo()
-    os.system('xdg-open https://chat.whatsapp.com/https://chat.whatsapp.com/DocvC62NI0EDeOGEd9XZoO')
-    print(f'{rad} Gandu ki script Free enjoy kro{white} ')
+    os.system('xdg-open https://chat.whatsapp.com/https:/https://youtube.com/@missdesinar?si=NrDR73_ssNHoBxUm/')
+    print(f'{rad} SUBSCRIBE kr liya kry 😕{white} ')
     print(50*'-')
     print(f'{white}{green} [1]{white} Random Crack')
     print(f'{white}{green} [2]{white} File Clone')
