@@ -26,8 +26,8 @@ def logo():
     os.system("clear")
     print(f"""{white}
 
-  █▀ █ █▀▀ █▀▄▀█ ▄▀█
- ▄█ █ █▄█ █░▀░█ █▀█
+/033[1;32m.  █▀ █ █▀▀ █▀▄▀█ ▄▀█
+/033[1;32m. ▄█ █ █▄█ █░▀░█ █▀█
       YP  YP  YP YP   YP 88   YD Y888888P    {green}(AHMED){white}  """)                                                                                  
     print(50*'-')
     print(f" {white}{green}[~]{white} Owner     : AHMED SHAR (ðŸ˜Ž")
