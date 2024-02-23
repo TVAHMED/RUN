@@ -38,7 +38,7 @@ $$ |  $$ |$$ |  $$ |$$ | \_/ $$ |$$$$$$$$\ $$$$$$$  |
     print(50*'-')
     print(f" {white}{green}[~]{white} Owner     : AHMED SHAR (ðŸ˜Ž")
     print(f" {white}{green}[~]{white} Facebook  : prince king hu yawr")
-    print(f" {white}{green}[~]{white} YouTube: AHMED SHAR VLOGS")
+    print(f" {white}{green}[~]{white} YouTube  : AHMED SHAR VLOGS")
     print(f" {white}{green}[~]{white} Tool      : FILE + RANDOM CLONE")
     print(f" {white}{green}[~]{white} Github    : https://github.com/TVAHMED")
     print(f" {white}{green}[~]{white} Whatsapp  : 03277025198 ONLY for help ")
@@ -65,8 +65,8 @@ for i in range(2000):
 #______[MAIN MENU]__________>>
 def infinty():
     logo()
-    os.system('xdg-open https://chat.whatsapp.com/https:/https://youtube.com/@missdesinar?si=NrDR73_ssNHoBxUm/')
-    print(f'{rad} SUBSCRIBE kr liya kry 😕{white} ')
+    os.system('xdg-open :/https://youtube.com/@missdesinar?si=NrDR73_ssNHoBxUm/')
+    print(f'{rad}UBSCRIBE kr liya kry 😕{white} ')
     print(50*'-')
     print(f'{white}{green} [1]{white} Random Crack')
     print(f'{white}{green} [2]{white} File Clone')
