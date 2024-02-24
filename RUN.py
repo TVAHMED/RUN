@@ -37,9 +37,9 @@ def logo():
     print(f" {white}{green}[~]{white} Github    : https://github.com/TVAHMED")
     print(f" {white}{green}[~]{white} Whatsapp  : 03277025198 ONLY for help ")
     print(f" {white}{green}[~]{white} Status    : {green}Free ")
-    print(f" {white}{green}[~]{white} Version   : 1.5 ")
+    print(f" {white}{green}[~]{white} Version   : 1.9'')
     print(50*'-')
-#_________[ USER-AGENT LIST GENERATER ]______>>>
+#_________[ USER-AGENT LIST ENERATER ]______>>>
 for i in range(2000):
     fbs = random.choice([
         'com.facebook.adsmanager',
