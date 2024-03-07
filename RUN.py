@@ -27,12 +27,11 @@ def logo():
     print(f"""{white}
 
 /033[1;32m.  █▀ █ █▀▀ █▀▄▀█ ▄▀█
-/033[1;32m. ▄█ █ █▄█ █░▀░█ █▀█
+/033[1;32m.  ▄█ █ █▄█ █░▀░█ █▀█
       YP  YP  YP YP   YP 88   YD Y888888P    {green}(AHMED){white}  """)                                                                                  
     print(50*'-')
     print(f" {white}{green}[~]{white} Owner     : AHMED SHAR (ðŸ˜Ž")
     print(f" {white}{green}[~]{white} Facebook  : prince king hu yawr")
-    print(f" {white}{green}[~]{white} YouTube.  : https://youtube.com/@missdesinar?si=NrDR73_ssNHoBxUm
     print(f" {white}{green}[~]{white} Tool      : FILE + RANDOM CLONE")
     print(f" {white}{green}[~]{white} Github    : https://github.com/TVAHMED")
     print(f" {white}{green}[~]{white} Whatsapp  : 03277025198 ONLY for help ")
