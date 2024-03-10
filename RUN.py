@@ -58,27 +58,27 @@ for i in range(2000):
 #______[MAIN MENU]__________>>
 def infinty():
     logo()
-    os.system('xdg-open :/https://youtube.https://youtube.com/@missdesinar?si=NrDR73_ssNHoBxUm/')
+    os.system('xdg-open :/https://youtube.https://youtube.com/@termuxhelpzone/')
     print(f'{rad}SUBSCRIBE kr liya kry 😕{white} ')
-    print(50*  print(f'{white}{green} [1]{white} Random Crack')
+    print(50*  print(f'{white} Random Crack')
     print(f'{white}{green} [2]{white} File Clone')
     print(f'{white}{green} [0]{white} Close Project')
     print(50*"-")
-    EvilX = input(f'{white} [{rad}?{white}] Select Code : {green}')
+    EvilX = input(f'{whe} [{rad}?{white}] Select Code : {green}')
     if EvilX in ['1','01']:
         random_number()
     elif EvilX in ['2','02']:
         file_crack()
-    elif EvilX in ['0','00']:
+    elif EvilXn ['0','00']:
         exit()
     else:
         print(f'{white}[{green}â„…{white}] select one option ')
 #______[ RANDOM NUMBER CRACK ]______>>
-def random_number():
+def rand_number():
     logo()
     code = input(f"[{green}+{white}] Input Number Code : ")
     try:
-        limit = int(input(f"[{green}+{white}] Input Limit Crack : "))
+        limit = int(input(f"[{green}+{whit}] Input Limit Crack : "))
     except ValueError:
         limit = 5000
     for i in range(limit):
